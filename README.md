@@ -1,7 +1,7 @@
 # Udemy-Clone_Website
 🎓 Udemy Clone is a responsive, single-page website built using HTML5 and CSS3, inspired by the design of Udemy’s homepage. This project was created to sharpen front-end development skills by focusing on layout, visual structure, and responsive design principles. It’s fully static — no JavaScript — and great for showcasing HTML/CSS capabilities. 🚀
 
-🔗 Live Preview: View the Project
+🔗 Live Preview: View the Project --> https://vishnu16vardhan.github.io/Udemy-Clone_Website/
 
 <!-- Replace with your actual URL (e.g., GitHub Pages or Netlify) -->
 ✨ Key Features:
